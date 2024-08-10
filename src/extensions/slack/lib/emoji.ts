@@ -246,6 +246,8 @@ const emojis = {
     "apple vision": "summit-vision",
     "hack hour": "the_doctor",
     "arcade": "arcade",
+    "game jam": "jam",
+    "jam": "jam"
 } as { [key: string]: string };
 
 export async function reactOnContent(data: {
